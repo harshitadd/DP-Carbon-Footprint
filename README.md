@@ -1,5 +1,6 @@
-### DP-NLP - Analyzing Carbon Footprint of DP-BERT at different degrees of differential privacy; Modelled for Topic Classification
-#### Data: [AG News Classification](https://www.kaggle.com/amananandrai/ag-news-classification-dataset?select=train.csv)
+### Experiment and Environment Meta Info
+#### DP-NLP - Analyzing Carbon Footprint of DP-BERT at different degrees of differential privacy; Modelled for Topic Classification
+##### Data: [AG News Classification](https://www.kaggle.com/amananandrai/ag-news-classification-dataset?select=train.csv)
 System Config: 
 PyTorch version: 1.7.0+cu92
 CUDA used to build PyTorch: 9.2
